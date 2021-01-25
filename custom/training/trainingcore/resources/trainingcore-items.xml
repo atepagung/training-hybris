@@ -150,7 +150,7 @@
                         <modifiers/>
                         <persistence type="property"/>
                     </attribute>
-                    <attribute qualifier="name" type="java.lang.String">
+                    <attribute qualifier="name" type="localized:java.lang.String">
                         <description>Seller Name</description>
                         <modifiers search="true"/>
                         <persistence type="property"/>
